@@ -59,6 +59,8 @@ git push
 """
 Команды для работы с ветками
 
+git branch
+
 git checkout -b <название ветки>   - для создания норвой ветки
 # git checkout -b syimyk
 
@@ -67,4 +69,16 @@ git checkout <название ветки>    - для переключения 
 # git checkout syimyk
 
 
+"""
+
+
+
+"""
+Команды-помошники
+
+git pull
+
+git status
+
+git clone
 """
